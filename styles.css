@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+div {
+    background-color: white;
+    height: 11vh;
+    width: 100%;
+
+}
+
+.div-dad {
+    position: absolute;
+    width: 100vw;
+    height: 110vh;
+
+}
+
+
+.div-son {
+    position: sticky;
+}
+
+section {
+    margin: 18% 0 0 25%;
+}
+
+h1 {
+    color: white;
+    font-size: 55px;
+    margin-top: -120px;
+
+}
+
+h2 {
+    color: white;
+    font-size: 50px;
+    margin-top: 3px;
+    margin-left: 190px;
+
+}
+
+
+
+p {
+    color: white;
+    font-size: 20px;
+    margin-right: 350px;
+    margin-top: 20px;
+    text-align: center;
+   
+
+
+}
+
+.netflix-logo {
+    height: 95px;
+    width: 170px;
+    margin: -5% 0 0 3%;
+}
+
+.button-entrar {
+    color: white;
+    background-color: #e50914;
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 8px 18px;
+    border: none;
+    margin-left: 87%;
+    margin-top: 100px;
+    border-radius: 5px;
+}
+
+
+input {
+    width: 50%;
+    height: 60px;
+    margin-top: 25px;
+
+}
+
+.button-vamos-la {
+    color: white;
+    background-color: #e50914;
+    font-size: 1.5rem;
+    border: none;
+    height: 60px;
+    width: 150px;
+    margin-left: -3px;
+}
